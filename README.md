@@ -1,5 +1,5 @@
 # Connect 4
-
+Challenge your friends or classmates in a 1-1 connect 4 classic match! This is played on your local device.
 ## Intended Project
 
 The 5 of us have settled on making a game commonly known as connect four. We plan to implement a lot of different aspects and an AI that could potentially play against the user. There will be many customization settings and to achieve this we have split into mini groups, in which every can contribute to the final product.
